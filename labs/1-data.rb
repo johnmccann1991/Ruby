@@ -20,3 +20,17 @@
 # "i would like " + 5 + " tacos"
 # To rectify this, you can convert the number into a string
 # "i would like #{5} tacos"
+
+first_die = rand(1..6)
+second_die = rand(1..6)
+
+puts first_die
+puts second_die
+puts first_die + second_die
+puts "The total is: #{first_die + second_die}"
+total = first_die + second_die
+puts "The total is: #{total}"
+
+
+
+
