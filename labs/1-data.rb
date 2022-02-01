@@ -32,5 +32,3 @@ total = first_die + second_die
 puts "The total is: #{total}"
 
 
-
-
